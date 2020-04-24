@@ -19,6 +19,6 @@ Stay tuned!  A community to help everyone grow faster and better!
 **Q. Why this channel was started?**  
 **A.** To teach students about software, career and code making tools. Also includes everything else that schools and colleges don't teach. And to personally share what we learned from our gained experiences. 
 
-### Contact me
+### Contact us
 
 [email@domain.com](mailto:email@domain.com)
