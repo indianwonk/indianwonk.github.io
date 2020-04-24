@@ -10,14 +10,14 @@ Stay tuned!  A community to help everyone grow faster and better!
 
 ### FAQs
 
-Q. Who should follow our channel?
-A. Anyone willing to learn something new and particularly related to tech, tutorials, student essentials, coding, software tools and IT related topics. 
+**Q. Who should follow our channel?**  
+**A.** Anyone willing to learn something new and particularly related to tech, tutorials, student essentials, coding, software tools and IT related topics. 
 
-Q. This channel is highly recommended for?
-A. Computer Science students especially in their schools, colleges or any graduate programs.
+**Q. This channel is highly recommended for?**  
+**A.** Computer Science students especially in their schools, colleges or any graduate programs.
 
-Q. Why this channel was started?
-A. To teach students abput software, career and code making tools. Also includes everything else that schools and colleges don't teach. And to personally share what we learned from our gained experiences. 
+**Q. Why this channel was started?**  
+**A.** To teach students about software, career and code making tools. Also includes everything else that schools and colleges don't teach. And to personally share what we learned from our gained experiences. 
 
 ### Contact me
 
