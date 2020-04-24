@@ -3,6 +3,8 @@ layout: post
 title: Introduction to CS Student Essentials Part-1
 ---
 
+<iframe width="727" height="409" src="https://www.youtube.com/embed/_Fek-bdkWNc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>  
+
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
